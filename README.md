@@ -10,9 +10,7 @@ This repository accompanies **“An Integrated Autonomous Racing System with Vel
 
 ## Demo
 
-🎬 **Demo video:** <!-- Add the video URL here after upload. -->
-
-Demonstration videos of autonomous racing and static-obstacle avoidance will be added here.
+🎬 **Demo video:** [Watch on Bilibili](https://www.bilibili.com/video/BV1k44i6yEmq/)
 
 ---
 
